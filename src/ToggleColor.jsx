@@ -29,13 +29,12 @@ function ToggleColor() {
         >
           Wite Theme
         </button>
-      </section>
-
-      <section className="content">
-        <h1>
-          Welcome To A<br />
-          Real World
-        </h1>
+        <section className="content">
+          <h1>
+            Welcome To A<br />
+            Real World
+          </h1>
+        </section>
       </section>
     </>
   );
