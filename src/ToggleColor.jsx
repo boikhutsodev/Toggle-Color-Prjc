@@ -7,7 +7,7 @@ function ToggleColor() {
 
   function handleClick() {
     setBackgroundColor(backgroundColor === "white" ? "#1b1b1b" : "white");
-    setTextColor(textColor === "#1b1b1b" ? "#ffa31a" : "#1b1b1");
+    setTextColor(textColor === "#1b1b1b" ? "#ffa31a" : "#1b1b1b");
     setButtonStyle(backgroundColor === "white" ? "#11b1b1b" : "white");
   }
 
